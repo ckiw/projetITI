@@ -35,7 +35,7 @@ void main()
 {
 
 	char i;
-	char text[] = "bite couille poil";	
+	char text[] = "";	
 	//Configure l’oscillateur interne sur 8MHz
 	OSCCON=0xF6;
 
