@@ -1,0 +1,9 @@
+Warning[2002] C:\Users\Alexis\Documents\PROJET ITI\programme marc\USART\main.c 9 : unknown pragma 'PBADEN'
+Warning[2058] C:\Users\Alexis\Documents\PROJET ITI\programme marc\USART\main.c 42 : call of function without prototype
+Warning[2066] C:\Users\Alexis\Documents\PROJET ITI\programme marc\USART\main.c 107 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\Alexis\Documents\PROJET ITI\programme marc\USART\main.c 135 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\Alexis\Documents\PROJET ITI\programme marc\USART\main.c 141 : type qualifier mismatch in assignment
+Warning[2066] C:\Users\Alexis\Documents\PROJET ITI\programme marc\USART\main.c 148 : type qualifier mismatch in assignment
+Warning[2059] C:\Users\Alexis\Documents\PROJET ITI\programme marc\USART\main.c 154 : unary minus of unsigned value
+Warning[2059] C:\Users\Alexis\Documents\PROJET ITI\programme marc\USART\main.c 160 : unary minus of unsigned value
+Warning[2066] C:\Users\Alexis\Documents\PROJET ITI\programme marc\USART\main.c 171 : type qualifier mismatch in assignment
